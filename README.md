@@ -1,71 +1,22 @@
-🔩 Precision 3D Component Design & Blueprint Development
-📌 Project Overview
+# 📘 Project Portfolio – TCAT CAD Projects
 
-This project showcases my ability to create a high-accuracy 3D mechanical component using CAD software (SolidWorks and AutoCAD), with a complete set of technical documentation. It was completed as part of my coursework at Tennessee College of Applied Technology (TCAT) in the Computer Aided Design Technology program.
+Below is a curated list of 14 projects I completed during my CAD training at **Tennessee College of Applied Technology (TCAT)**. Each project demonstrates specific technical skills in 2D drafting, 3D modeling, and mechanical design using **Inventor, SolidWorks, and AutoCAD**.
 
-The main goal of this project was to follow industry drafting standards to produce a fully manufacturable part with detailed blueprints, accurate dimensions, and proper tolerancing.
+| #  | Project Title                      | Software       | Description                    |
+|----|-----------------------------------|----------------|--------------------------------|
+| 1  | Precision 3D Component & Blueprint | Inventor       | High-accuracy part design      |
+| 2  | Cannon Assembly                    | Inventor       | Multi-part mechanical assembly |
+| 3  | U-Bracket Blueprint               | AutoCAD       | 2D drawing of bracket part     |
+| 4  | Step V Pulley                     | SolidWorks     | Rotational part modeling       |
+| 5  | Slide Mount Blueprint             | Inventor       | Technical drawing with details |
+| 6  | Chess Piece                       | SolidWorks     | Organic shape modeling         |
+| 7  | Wheel Assembly Drawing            | AutoCAD       | Complete mechanical assembly   |
+| 8  | Skull Adirondack Chair            | Inventor       | Furniture design with curves   |
+| 9  | Exhaust Manifold Model            | SolidWorks     | Engine component modeling      |
+| 10 | Q 9-4 Blueprint                   | Inventor       | Detailed 2D part blueprint     |
+| 11 | 3-Cylinder Engine                 | SolidWorks     | Complex engine assembly        |
+| 12 | Toy Assembly                      | SolidWorks     | Multi-part product design      |
+| 13 | Jack in the Box Blueprint         | AutoCAD        | 2D toy housing blueprint       |
+| 14 | Scissor Jack Assembly             | SolidWorks     | Lifting mechanism modeling     |
 
-🧰 Tools & Skills Used
-
-Software: Inventor
-
-CAD Skills:
-
-3D Modeling
-
-Technical Drawing
-
-Orthographic Projection
-
-Geometric Dimensioning & Tolerancing (GD&T)
-
-Design for Manufacturability (DFM)
-
-Certifications Applied:
-
-CSWA (Certified SolidWorks Associate)
-
-Drafting NOCTI
-
-📁 Project Files
-File Type	Description
-.SLDPRT	Inventor part file with full 3D model
-.SLDDRW	Inventor drawing file with multi-view blueprint
-.PDF	Exported technical drawing (for easy viewing)
-.DXF/.DWG	AutoCAD version of the drawing (if applicable)
-.STL	3D printable version of the part (if applicable)
-🛠 Features & Highlights
-
-Fully dimensioned mechanical component with tight tolerances
-
-Includes:
-
-Orthographic projections (Top, Front, Right views)
-
-Isometric preview
-
-Annotations for material specs
-
-Centerlines, datums, and tolerances
-
-Designed with manufacturability and function in mind
-
-🔍 Learning Outcomes
-
-Reinforced understanding of design intent and CAD best practices
-
-Gained hands-on experience applying engineering standards to real-world design
-
-Strengthened knowledge of assembly fit, material properties, and production drawings
-
-📸 Preview
-
-https://drive.google.com/file/d/1t0jlf7qkGFKgwDri8SMxaEvxVavneleJ/view?usp=sharing
-
-🔗 Connect with Me
-
-For more projects and professional updates:
-
-📧 Email: aleahbaker28@yahoo.com
-🔗 LinkedIn: www.linkedin.com/in/aleah-m-johnson
-🐙 GitHub: https://github.com/aleahjohnson
+> 🔗 *Click into each individual folder or repository for project files, screenshots, blueprints, and 3D models.*
